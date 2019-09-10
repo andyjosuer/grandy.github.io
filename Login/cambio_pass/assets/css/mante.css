@@ -1,0 +1,64 @@
+<div class="table-responsive-vertical shadow-z-1">
+  <!-- Table starts here -->
+  <table id="table" class="table table-hover table-mc-light-blue">
+      <thead>
+        <tr>
+          <th>Cod_Cliente</th>
+          <th>Nombre</th>
+          <th>Telefono</th>
+          <th>Estado</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td data-title="ID">000001</td>
+          <td data-title="Name">Carlos Enrrique Chavez</td>
+          <td data-title="Link">
+            <a href="https://github.com/zavoloklom/material-design-color-palette" target="_blank">97128007</a>
+          </td>
+          <td data-title="Status">Completed</td>
+        </tr>
+        <tr>
+          <td data-title="ID">000002</td>
+          <td data-title="Name">Luisa Fernanda Carcamo</td>
+          <td data-title="Link">
+            <a href="https://codepen.io/zavoloklom/pen/uqCsB" target="_blank">96544323</a>
+            <a href="https://github.com/zavoloklom/material-design-iconic-font" target="_blank"></a>
+          </td>
+          <td data-title="Status">Completed</td>
+        </tr>
+        <tr>
+          <td data-title="ID">000003</td>
+          <td data-title="Name">Juan Orlando Turcios</td>
+          <td data-title="Link">
+            <a href="https://codepen.io/zavoloklom/pen/eNaEBM" target="_blank">98767898</a>
+            <a href="https://github.com/zavoloklom/material-design-hierarchical-display" target="_blank"></a>
+          </td>
+          <td data-title="Status">Completed</td>
+        </tr>
+        <tr>
+          <td data-title="ID">000004</td>
+          <td data-title="Name">Karol Patricia Andino</td>
+          <td data-title="Link"><a href="https://codepen.io/zavoloklom/pen/dIgco" target="_blank">89813242</a></td>
+          <td data-title="Status">Completed</td>
+        </tr>
+        <tr>
+          <td data-title="ID">000005</td>
+          <td data-title="Name">Jose Antonio Feliz</td>
+          <td data-title="Link">
+            <a href="https://codepen.io/zavoloklom/pen/wtApI" target="_blank">33245432</a>
+          </td>
+          <td data-title="Status">Completed</td>
+        </tr>
+        <tr>
+          <td data-title="ID">000006</td>
+          <td data-title="Name">Yulissa Fernanda Mora</td>
+          <td data-title="Link">
+            <a href="https://codepen.io/zavoloklom/pen/IkaFL" target="_blank">98678905</a>
+            <a href="https://github.com/zavoloklom/material-design-typography" target="_blank"></a>
+          </td>
+          <td data-title="Status">Completed</td>
+        </tr>
+              </tbody>
+    </table>
+  </div>

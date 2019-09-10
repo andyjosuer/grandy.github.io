@@ -1,0 +1,86 @@
+
+input[type=checkbox] {
+display:none;
+    
+}
+ 
+input[type=checkbox] + label
+{
+background: url("images.png") no-repeat;
+background-size: 50%;
+height: 50px;
+width: 50px;
+display:inline-block;
+padding: 0 0 0 0px;
+    cursor: pointer;
+}
+input[type=checkbox]:checked + label
+{
+background: url("descarga.png") no-repeat;
+background-size: 50%;
+height: 50px;
+width: 50px;
+display:inline-block;
+padding: 0 0 0 0px;
+    cursor: pointer;
+}
+
+
+
+.login{
+	background-size:100%;
+	background-repeat:no-repeat !important;
+    color: whitesmoke;
+    
+}
+
+label{
+	color:white;
+    font-size:18px !important;
+		
+}
+
+c{
+    font-family: sans-serif;
+	color:antiquewhite;
+    font-size:18px !important;
+
+
+		
+}
+
+
+a{
+	color:white;
+    font-size:18px !important;
+
+
+		
+}
+
+
+
+h1{
+	font-size:50px !important;
+}
+
+.jumbotron{
+    
+    background-color: transparent !important;
+    color:black;
+    position:fixed;
+    right: 0;
+    left: 150;
+    bottom: 0;
+    top: 0;
+    margin: 0;
+    display: flex;
+}
+
+input{
+    text-transform:uppercase;
+    font-size: 15%;
+    
+} 
+
+

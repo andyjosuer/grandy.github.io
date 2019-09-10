@@ -1,0 +1,22 @@
+body{
+    background-image: url("../../images/11.jpeg") !important;
+    background-size:100%;
+	background-repeat:no-repeat !important;
+    color: white;
+}
+
+.actionBar{
+    text-align:center !important;
+}
+
+
+.x_panel{
+    width: 70% !important;
+    background: transparent;
+    padding: 20px 34px;
+}
+
+.wizard_horizontal ul.wizard_steps li a, .wizard_horizontal ul.wizard_steps li:hover{
+    
+    color: cornsilk;
+}
